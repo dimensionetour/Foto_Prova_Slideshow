@@ -1,0 +1,6 @@
+---?image=https://res.cloudinary.com/dimensione3-srl/image/upload/v1580898101/Foto_Prova_Slideshow/DSC_0082.jpg&size=auto 100%
+---?image=https://res.cloudinary.com/dimensione3-srl/image/upload/v1580898101/Foto_Prova_Slideshow/DSC_0093.jpg&size=auto 100%
+---?image=https://res.cloudinary.com/dimensione3-srl/image/upload/v1580898101/Foto_Prova_Slideshow/DSC_0116.jpg&size=auto 100%
+---?image=https://res.cloudinary.com/dimensione3-srl/image/upload/v1580898100/Foto_Prova_Slideshow/DSC_0172.jpg&size=auto 100%
+---?image=https://res.cloudinary.com/dimensione3-srl/image/upload/v1580898099/Foto_Prova_Slideshow/DSC_0026.jpg&size=auto 100%
+---?image=https://res.cloudinary.com/dimensione3-srl/image/upload/v1580898099/Foto_Prova_Slideshow/DSC_0169.jpg&size=auto 100%
